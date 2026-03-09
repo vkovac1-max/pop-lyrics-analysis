@@ -34,4 +34,4 @@ If you want to run the code yourself:
 3. Place both the `.ipynb` file and the `.csv` file in the **same folder** on your computer.
 4. Run it using Jupyter Notebook or VS Code.
 
-* **Future Research - Information Entropy:** Beyond TTR, I plan to implement Shannon Entropy to more accurately quantify the structural complexity and unpredictability of modern lyrics compared to earlier decades.
+**Future Research - Information Entropy:** Beyond TTR, I plan to implement Shannon Entropy to more accurately quantify the structural complexity and unpredictability of modern lyrics compared to earlier decades.
