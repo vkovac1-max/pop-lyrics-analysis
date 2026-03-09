@@ -10,8 +10,7 @@ This project explores the evolution of popular music over six decades using Data
 
 ## Key Findings 📈
 * **The Death of the Solo Writer:** Data shows a dramatic spike in the average number of writers per song starting in the 1990s. Modern hits have shifted from single lyricists to collaborative production models.
-* **Decline in Lexical Diversity:** Using the **Type-Token Ratio (TTR)** to measure vocabulary richness, the analysis reveals a historical decline. Modern songs tend to have more words in total, but those words are significantly more repetitive.
-* **Case Study:** A direct comparison between Queen's *Bohemian Rhapsody* (TTR: 0.421, 1 writer) and Taylor Swift's *Shake It Off* (TTR: 0.191, 3 writers) highlights this 60-year shift.
+* **Decline in Lexical Diversity:** Using the **Type-Token Ratio (TTR)** to measure vocabulary richness, the analysis reveals a historical decline. Modern songs tend to have more words in total, but those words are significantly more repetitive..
 
 ## Tech Stack 🛠️
 * **Language:** Python
@@ -34,3 +33,5 @@ If you want to run the code yourself:
 2. **Download the dataset** from the [Kaggle link](https://www.kaggle.com/datasets/brianblakely/top-100-songs-and-lyrics-from-1959-to-2019) provided above.
 3. Place both the `.ipynb` file and the `.csv` file in the **same folder** on your computer.
 4. Run it using Jupyter Notebook or VS Code.
+
+* **Future Research - Information Entropy:** Beyond TTR, I plan to implement Shannon Entropy to more accurately quantify the structural complexity and unpredictability of modern lyrics compared to earlier decades.
